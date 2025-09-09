@@ -10,3 +10,5 @@ Install the required library:
 Save the script.
 
 Run the script.
+
+If support is needed contact me here. https://discord.gg/VVZZAEDTSU
