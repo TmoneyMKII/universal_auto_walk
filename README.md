@@ -9,6 +9,4 @@ Install the required library:
 
 Save the script.
 
-Run the script:
-
-`python auto_walk.py`
+Run the script.
